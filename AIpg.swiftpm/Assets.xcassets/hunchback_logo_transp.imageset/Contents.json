@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "hunchback_logo_transp.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,84 @@
+[
+    {"id": 0, "title": "app_title", "content": "Trợ Lý Chỉnh Hình Gù Lưng"},
+    {"id": 1, "title": "tab_monitor", "content": "Theo Dõi"},
+    {"id": 2, "title": "tab_data", "content": "Dữ Liệu"},
+    {"id": 3, "title": "tab_user", "content": "Người Dùng"},
+    {"id": 4, "title": "tab_settings", "content": "Cài Đặt"},
+    {"id": 5, "title": "login", "content": "Đăng Nhập"},
+    {"id": 6, "title": "register", "content": "Đăng Ký"},
+    {"id": 7, "title": "account", "content": "Tài Khoản"},
+    {"id": 8, "title": "password", "content": "Mật Khẩu"},
+    {"id": 9, "title": "signup", "content": "Đăng Ký"},
+    {"id": 10, "title": "detection_mode", "content": "\"Chế Độ Phát Hiện\""},
+    {"id": 11, "title": "correction_mode", "content": "\"Chế Độ Chỉnh Sửa\""},
+    {"id": 12, "title": "no_target", "content": "Không Có Mục Tiêu"},
+    {"id": 13, "title": "correction", "content": "Chỉnh Sửa"},
+    {"id": 14, "title": "after_secs", "content": "Bắt Đầu Sau Vài Giây"},
+    {"id": 15, "title": "leftover", "content": "Còn Lại"},
+    {"id": 16, "title": "second", "content": "Giây"},
+    {"id": 17, "title": "sideways", "content": "Nghiêng"},
+    {"id": 18, "title": "hunchback", "content": "Gù Lưng"},
+    {"id": 19, "title": "idle", "content": "Nhàn Rỗi"},
+    {"id": 20, "title": "useVibrationWhenDetectHunchback", "content": "Sử Dụng Rung Khi Phát Hiện Gù Lưng"},
+    {"id": 21, "title": "selectLanguage", "content": "Chọn Ngôn Ngữ"},
+    {"id": 22, "title": "vibrateFeedback", "content": "Phản Hồi Rung"},
+    {"id": 23, "title": "language", "content": "Ngôn Ngữ"},
+    {"id": 24, "title": "cannotUseVibrateFeature", "content": "Không Thể Sử Dụng Tính Năng Rung!"},
+    {"id": 25, "title": "notIPhoneCannotVibrate", "content": "Thiết Bị Của Bạn Không Phải iPhone, Không Thể Sử Dụng Tính Năng Rung!"},
+    {"id": 26, "title": "newAccount", "content": "Tài Khoản Mới"},
+    {"id": 27, "title": "newPassword", "content": "Mật Khẩu Mới"},
+    {"id": 28, "title": "confirmPassword", "content": "Xác Nhận Mật Khẩu"},
+    {"id": 29, "title": "notice", "content": "Thông Báo"},
+    {"id": 30, "title": "confirm", "content": "Xác Nhận"},
+    {"id": 31, "title": "accountCannotBeEmpty", "content": "Tài Khoản Không Được Để Trống!"},
+    {"id": 32, "title": "accountOrPasswordIncorrect", "content": "Tài Khoản Hoặc Mật Khẩu Không Chính Xác!"},
+    {"id": 33, "title": "accountAlreadyExists", "content": "Tài Khoản Đã Tồn Tại!"},
+    {"id": 34, "title": "registerSuccess", "content": "Đăng Ký Thành Công!"},
+    {"id": 35, "title": "store", "content": "cửa hàng"},
+    {"id": 36, "title": "count", "content": "Tiếp theo"},
+    {"id": 37, "title": "yourAnalysisGraph", "content": "Biểu đồ thống kê xu hướng của bạn"},
+    {"id": 38, "title": "day", "content": "Ngày"},
+    {"id": 39, "title": "week", "content": "Tuần"},
+    {"id": 40, "title": "month", "content": "Tháng"},
+    {"id": 41, "title": "youHaveTotalHunchbacksOf", "content": "Bạn có tổng cộng gù lưng"},
+    {"id": 42, "title": "lottery", "content": "Xổ số"},
+    {"id": 43, "title": "realtimeHunchbackAnalysis", "content": "Phân tích gù lưng thời gian thực"},
+    {"id": 44, "title": "hunchbackStatus", "content": "Tình trạng gù lưng"},
+    {"id": 45, "title": "darkUI", "content": "Giao diện tối"},
+    {"id": 46, "title": "useDarkUIMode", "content": "Sử dụng giao diện chế độ tối"},
+    {
+        "id": 47,
+        "title": "dailyTarget",
+        "content": "Mục tiêu hàng ngày"
+      },
+      {
+        "id": 48,
+        "title": "noHunchbackMoreThan",
+        "content": "Không Gù Lưng Quá"
+      },
+      {
+        "id": 49,
+        "title": "hunchbackTooManyTimes",
+        "content": "Gù lưng quá nhiều lần!"
+      },
+      {
+        "id": 50,
+        "title": "hunchbackExceedDailyCount",
+        "content": "Gù lưng vượt quá giới hạn hàng ngày!"
+      },
+      {
+        "id": 51,
+        "title": "youTotallyHave",
+        "content": "Bạn Tổng Cộng Có"
+      },
+      {
+        "id": 52,
+        "title": "timesHunchbacked",
+        "content": "Lần Gù Lưng"
+      },
+      {
+        "id": 53,
+        "title": "hunchbackTotalCount",
+        "content": "Tổng Số Lần Gù Lưng"
+      }            
+]

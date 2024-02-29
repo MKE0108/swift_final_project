@@ -1,0 +1,84 @@
+[
+    {"id": 0, "title": "app_title", "content": "거북목 교정 도우미"},
+    {"id": 1, "title": "tab_monitor", "content": "모니터"},
+    {"id": 2, "title": "tab_data", "content": "데이터"},
+    {"id": 3, "title": "tab_user", "content": "사용자"},
+    {"id": 4, "title": "tab_settings", "content": "설정"},
+    {"id": 5, "title": "login", "content": "로그인"},
+    {"id": 6, "title": "register", "content": "등록"},
+    {"id": 7, "title": "account", "content": "계정"},
+    {"id": 8, "title": "password", "content": "비밀번호"},
+    {"id": 9, "title": "signup", "content": "가입하기"},
+    {"id": 10, "title": "detection_mode", "content": "\"감지 모드\""},
+    {"id": 11, "title": "correction_mode", "content": "\"교정 모드\""},
+    {"id": 12, "title": "no_target", "content": "목표 없음"},
+    {"id": 13, "title": "correction", "content": "교정"},
+    {"id": 14, "title": "after_secs", "content": "몇 초 후 시작"},
+    {"id": 15, "title": "leftover", "content": "남은 것"},
+    {"id": 16, "title": "second", "content": "초"},
+    {"id": 17, "title": "sideways", "content": "옆으로"},
+    {"id": 18, "title": "hunchback", "content": "거북목"},
+    {"id": 19, "title": "idle", "content": "대기 상태"},
+    {"id": 20, "title": "useVibrationWhenDetectHunchback", "content": "거북목 감지시 진동 사용"},
+    {"id": 21, "title": "selectLanguage", "content": "언어 선택"},
+    {"id": 22, "title": "vibrateFeedback", "content": "진동 피드백"},
+    {"id": 23, "title": "language", "content": "언어"},
+    {"id": 24, "title": "cannotUseVibrateFeature", "content": "진동 기능을 사용할 수 없습니다!"},
+    {"id": 25, "title": "notIPhoneCannotVibrate", "content": "귀하의 장치가 iPhone이 아니어서 진동 기능을 사용할 수 없습니다!"},
+    {"id": 26, "title": "newAccount", "content": "새 계정"},
+    {"id": 27, "title": "newPassword", "content": "새 비밀번호"},
+    {"id": 28, "title": "confirmPassword", "content": "비밀번호 확인"},
+    {"id": 29, "title": "notice", "content": "공지사항"},
+    {"id": 30, "title": "confirm", "content": "확인"},
+    {"id": 31, "title": "accountCannotBeEmpty", "content": "계정을 비워 둘 수 없습니다!"},
+    {"id": 32, "title": "accountOrPasswordIncorrect", "content": "계정 또는 비밀번호가 정확하지 않습니다!"},
+    {"id": 33, "title": "accountAlreadyExists", "content": "계정이 이미 존재합니다!"},
+    {"id": 34, "title": "registerSuccess", "content": "성공적으로 등록되었습니다!"},
+    {"id": 35, "title": "store", "content": "상점"},
+    {"id": 36, "title": "count", "content": "다음"},
+    {"id": 37, "title": "yourAnalysisGraph", "content": "당신의 추세 통계 차트"},
+    {"id": 38, "title": "day", "content": "일"},
+    {"id": 39, "title": "week", "content": "주"},
+    {"id": 40, "title": "month", "content": "월"},
+    {"id": 41, "title": "youHaveTotalHunchbacksOf", "content": "당신은 총 굽은 등을 가지고 있습니다"},
+    {"id": 42, "title": "lottery", "content": "추첨"},
+    {"id": 43, "title": "realtimeHunchbackAnalysis", "content": "실시간 굽은 등 분석"},
+    {"id": 44, "title": "hunchbackStatus", "content": "굽은 등 상태"},
+    {"id": 45, "title": "darkUI", "content": "다크 인터페이스"},
+    {"id": 46, "title": "useDarkUIMode", "content": "다크 모드 인터페이스 사용"},
+    {
+        "id": 47,
+        "title": "dailyTarget",
+        "content": "매일 목표"
+      },
+      {
+        "id": 48,
+        "title": "noHunchbackMoreThan",
+        "content": "거북목 이상 없음"
+      },
+      {
+        "id": 49,
+        "title": "hunchbackTooManyTimes",
+        "content": "거북목 너무 많음!"
+      },
+      {
+        "id": 50,
+        "title": "hunchbackExceedDailyCount",
+        "content": "거북목이 매일 제한을 초과함!"
+      },
+      {
+        "id": 51,
+        "title": "youTotallyHave",
+        "content": "당신은 총 가지고 있음"
+      },
+      {
+        "id": 52,
+        "title": "timesHunchbacked",
+        "content": "거북목 횟수"
+      },
+      {
+        "id": 53,
+        "title": "hunchbackTotalCount",
+        "content": "거북목 총 수"
+      }            
+]

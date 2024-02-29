@@ -1,0 +1,84 @@
+[
+    {"id": 0, "title": "app_title", "content": "Adjutor Correctionis Gibbi"},
+    {"id": 1, "title": "tab_monitor", "content": "Monitor"},
+    {"id": 2, "title": "tab_data", "content": "Data"},
+    {"id": 3, "title": "tab_user", "content": "Usor"},
+    {"id": 4, "title": "tab_settings", "content": "Configurationes"},
+    {"id": 5, "title": "login", "content": "Login"},
+    {"id": 6, "title": "register", "content": "Register"},
+    {"id": 7, "title": "account", "content": "Ratio"},
+    {"id": 8, "title": "password", "content": "Tessera"},
+    {"id": 9, "title": "signup", "content": "Subscribere"},
+    {"id": 10, "title": "detection_mode", "content": "Modus Detectionis"},
+    {"id": 11, "title": "correction_mode", "content": "Modus Correctionis"},
+    {"id": 12, "title": "no_target", "content": "Nullus Finis"},
+    {"id": 13, "title": "correction", "content": "Correctio"},
+    {"id": 14, "title": "after_secs", "content": "Initium Post Secundos"},
+    {"id": 15, "title": "leftover", "content": "Reliquum"},
+    {"id": 16, "title": "second", "content": "Secundus"},
+    {"id": 17, "title": "sideways", "content": "Lateraliter"},
+    {"id": 18, "title": "hunchback", "content": "Gibbus"},
+    {"id": 19, "title": "idle", "content": "Otiosus"},
+    {"id": 20, "title": "useVibrationWhenDetectHunchback", "content": "Utere Vibratione Cum Gibbum Detegit"},
+    {"id": 21, "title": "selectLanguage", "content": "Elige Linguam"},
+    {"id": 22, "title": "vibrateFeedback", "content": "Vibratio Feedback"},
+    {"id": 23, "title": "language", "content": "Lingua"},
+    {"id": 24, "title": "cannotUseVibrateFeature", "content": "Functio Vibrationis Uti Non Potest!"},
+    {"id": 25, "title": "notIPhoneCannotVibrate", "content": "Tuum Dispositum non est iPhone, Functio Vibrationis Uti Non Potest!"},
+    {"id": 26, "title": "newAccount", "content": "Nova Ratio"},
+    {"id": 27, "title": "newPassword", "content": "Nova Tessera"},
+    {"id": 28, "title": "confirmPassword", "content": "Confirmare Tessera"},
+    {"id": 29, "title": "notice", "content": "Notitia"},
+    {"id": 30, "title": "confirm", "content": "Confirmare"},
+    {"id": 31, "title": "accountCannotBeEmpty", "content": "Ratio Vaca Non Potest!"},
+    {"id": 32, "title": "accountOrPasswordIncorrect", "content": "Ratio aut Tessera Non Correcta!"},
+    {"id": 33, "title": "accountAlreadyExists", "content": "Ratio iam Exsistit!"},
+    {"id": 34, "title": "registerSuccess", "content": "Subscriptio Successu!"},
+    {"id": 35, "title": "store", "content": "Taberna"},
+    {"id": 36, "title": "count", "content": "Proximus"},
+    {"id": 37, "title": "yourAnalysisGraph", "content": "Tabula Statistica Tendenciarum Tua"},
+    {"id": 38, "title": "day", "content": "Dies"},
+    {"id": 39, "title": "week", "content": "Hebdomada"},
+    {"id": 40, "title": "month", "content": "Mensis"},
+    {"id": 41, "title": "youHaveTotalHunchbacksOf", "content": "Habes Omnino Gibbos"},
+    {"id": 42, "title": "lottery", "content": "Sortitio"},
+    {"id": 43, "title": "realtimeHunchbackAnalysis", "content": "Analysis Gibbi Tempore Realis"},
+    {"id": 44, "title": "hunchbackStatus", "content": "Status Gibbi"},
+    {"id": 45, "title": "darkUI", "content": "Interface Obscura"},
+    {"id": 46, "title": "useDarkUIMode", "content": "Usus Modus Interface Obscura"},
+    {
+        "id": 47,
+        "title": "dailyTarget",
+        "content": "Cotidiana Meta"
+      },
+      {
+        "id": 48,
+        "title": "noHunchbackMoreThan",
+        "content": "Nulla Gibbositas Ultra"
+      },
+      {
+        "id": 49,
+        "title": "hunchbackTooManyTimes",
+        "content": "Gibbositas Nimis Saepe!"
+      },
+      {
+        "id": 50,
+        "title": "hunchbackExceedDailyCount",
+        "content": "Gibbositas Excedit Limites Cotidianos!"
+      },
+      {
+        "id": 51,
+        "title": "youTotallyHave",
+        "content": "Totaliter Habes"
+      },
+      {
+        "id": 52,
+        "title": "timesHunchbacked",
+        "content": "Numerus Gibbositas"
+      },
+      {
+        "id": 53,
+        "title": "hunchbackTotalCount",
+        "content": "Gibbositas Numerus Totalis"
+      }            
+]

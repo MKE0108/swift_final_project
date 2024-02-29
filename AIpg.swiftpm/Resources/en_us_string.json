@@ -1,0 +1,84 @@
+[
+    {"id": 0, "title": "app_title", "content": "Hunchback Correction Helper"},
+    {"id": 1, "title": "tab_monitor", "content": "Monitor"},
+    {"id": 2, "title": "tab_data", "content": "Data"},
+    {"id": 3, "title": "tab_user", "content": "User"},
+    {"id": 4, "title": "tab_settings", "content": "Settings"},
+    {"id": 5, "title": "login", "content": "Login"},
+    {"id": 6, "title": "register", "content": "Register"},
+    {"id": 7, "title": "account", "content": "Account"},
+    {"id": 8, "title": "password", "content": "Password"},
+    {"id": 9, "title": "signup", "content": "Sign Up"},
+    {"id": 10, "title": "detection_mode", "content": "\"Detection Mode\""},
+    {"id": 11, "title": "correction_mode", "content": "\"Correction Mode\""},
+    {"id": 12, "title": "no_target", "content": "No Target"},
+    {"id": 13, "title": "correction", "content": "Correction"},
+    {"id": 14, "title": "after_secs", "content": "Start After Seconds"},
+    {"id": 15, "title": "leftover", "content": "Leftover"},
+    {"id": 16, "title": "second", "content": "Second"},
+    {"id": 17, "title": "sideways", "content": "Sideways"},
+    {"id": 18, "title": "hunchback", "content": "Hunchback"},
+    {"id": 19, "title": "idle", "content": "Idle"},
+    {"id": 20, "title": "useVibrationWhenDetectHunchback", "content": "Use Vibration When Detecting Hunchback"},
+    {"id": 21, "title": "selectLanguage", "content": "Select Language"},
+    {"id": 22, "title": "vibrateFeedback", "content": "Vibrate Feedback"},
+    {"id": 23, "title": "language", "content": "Language"},
+    {"id": 24, "title": "cannotUseVibrateFeature", "content": "Cannot Use Vibration Feature!"},
+    {"id": 25, "title": "notIPhoneCannotVibrate", "content": "Your Device is not an iPhone, Cannot Use Vibration Feature!"},
+    {"id": 26, "title": "newAccount", "content": "New Account"},
+    {"id": 27, "title": "newPassword", "content": "New Password"},
+    {"id": 28, "title": "confirmPassword", "content": "Confirm Password"},
+    {"id": 29, "title": "notice", "content": "Notice"},
+    {"id": 30, "title": "confirm", "content": "Confirm"},
+    {"id": 31, "title": "accountCannotBeEmpty", "content": "Account can't be empty!"},
+    {"id": 32, "title": "accountOrPasswordIncorrect", "content": "Account or password incorrect!"},
+    {"id": 33, "title": "accountAlreadyExists", "content": "Account already exists!"},
+    {"id": 34, "title": "registerSuccess", "content": "Register successfully!"},
+    {"id": 35, "title": "store", "content": "Store"},
+    {"id": 36, "title": "count", "content": "Next"},
+    {"id": 37, "title": "yourAnalysisGraph", "content": "Your Trend Statistical Chart"},
+    {"id": 38, "title": "day", "content": "Day"},
+    {"id": 39, "title": "week", "content": "Week"},
+    {"id": 40, "title": "month", "content": "Month"},
+    {"id": 41, "title": "youHaveTotalHunchbacksOf", "content": "You Have a Total of Hunchbacks"},
+    {"id": 42, "title": "lottery", "content": "Lottery"},
+    {"id": 43, "title": "realtimeHunchbackAnalysis", "content": "Real-time Hunchback Analysis"},
+    {"id": 44, "title": "hunchbackStatus", "content": "Hunchback Condition"},
+    {"id": 45, "title": "darkUI", "content": "Dark Interface"},
+    {"id": 46, "title": "useDarkUIMode", "content": "Use Dark Mode Interface"},
+    {
+        "id": 47,
+        "title": "dailyTarget",
+        "content": "Daily Goal"
+      },
+      {
+        "id": 48,
+        "title": "noHunchbackMoreThan",
+        "content": "No Hunchback More Than"
+      },
+      {
+        "id": 49,
+        "title": "hunchbackTooManyTimes",
+        "content": "Hunchback Too Many Times!"
+      },
+      {
+        "id": 50,
+        "title": "hunchbackExceedDailyCount",
+        "content": "Hunchback Exceeds Daily Limit!"
+      },
+      {
+        "id": 51,
+        "title": "youTotallyHave",
+        "content": "You Totally Have"
+      },
+      {
+        "id": 52,
+        "title": "timesHunchbacked",
+        "content": "Times Hunchbacked"
+      },
+      {
+        "id": 53,
+        "title": "hunchbackTotalCount",
+        "content": "Total Hunchback Count"
+      }      
+]

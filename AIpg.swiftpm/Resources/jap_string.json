@@ -1,0 +1,84 @@
+[
+    {"id": 0, "title": "app_title", "content": "猫背矯正のヘルパー"},
+    {"id": 1, "title": "tab_monitor", "content": "監視"},
+    {"id": 2, "title": "tab_data", "content": "データ"},
+    {"id": 3, "title": "tab_user", "content": "ユーザー"},
+    {"id": 4, "title": "tab_settings", "content": "設定"},
+    {"id": 5, "title": "login", "content": "ログイン"},
+    {"id": 6, "title": "register", "content": "登録"},
+    {"id": 7, "title": "account", "content": "アカウント"},
+    {"id": 8, "title": "password", "content": "パスワード"},
+    {"id": 9, "title": "signup", "content": "サインアップ"},
+    {"id": 10, "title": "detection_mode", "content": "「検出モード」"},
+    {"id": 11, "title": "correction_mode", "content": "「矯正モード」"},
+    {"id": 12, "title": "no_target", "content": "ターゲットなし"},
+    {"id": 13, "title": "correction", "content": "矯正"},
+    {"id": 14, "title": "after_secs", "content": "秒後に開始"},
+    {"id": 15, "title": "leftover", "content": "残り"},
+    {"id": 16, "title": "second", "content": "秒"},
+    {"id": 17, "title": "sideways", "content": "横向き"},
+    {"id": 18, "title": "hunchback", "content": "猫背"},
+    {"id": 19, "title": "idle", "content": "アイドル"},
+    {"id": 20, "title": "useVibrationWhenDetectHunchback", "content": "猫背を検出した時に振動を使用する"},
+    {"id": 21, "title": "selectLanguage", "content": "言語選択"},
+    {"id": 22, "title": "vibrateFeedback", "content": "振動フィードバック"},
+    {"id": 23, "title": "language", "content": "言語"},
+    {"id": 24, "title": "cannotUseVibrateFeature", "content": "振動機能を使用できません！"},
+    {"id": 25, "title": "notIPhoneCannotVibrate", "content": "お使いのデバイスはiPhoneではありません。振動機能は使用できません！"},
+    {"id": 26, "title": "newAccount", "content": "新しいアカウント"},
+    {"id": 27, "title": "newPassword", "content": "新しいパスワード"},
+    {"id": 28, "title": "confirmPassword", "content": "パスワードの確認"},
+    {"id": 29, "title": "notice", "content": "通知"},
+    {"id": 30, "title": "confirm", "content": "確認する"},
+    {"id": 31, "title": "accountCannotBeEmpty", "content": "アカウントを空にすることはできません！"},
+    {"id": 32, "title": "accountOrPasswordIncorrect", "content": "アカウントまたはパスワードが間違っています！"},
+    {"id": 33, "title": "accountAlreadyExists", "content": "アカウントは既に存在します！"},
+    {"id": 34, "title": "registerSuccess", "content": "登録成功！"},
+    {"id": 35, "title": "store", "content": "店"},
+    {"id": 36, "title": "count", "content": "次"},
+    {"id": 37, "title": "yourAnalysisGraph", "content": "あなたの傾向統計グラフ"},
+    {"id": 38, "title": "day", "content": "日"},
+    {"id": 39, "title": "week", "content": "週"},
+    {"id": 40, "title": "month", "content": "月"},
+    {"id": 41, "title": "youHaveTotalHunchbacksOf", "content": "総駝背数"},
+    {"id": 42, "title": "lottery", "content": "抽選"},
+    {"id": 43, "title": "realtimeHunchbackAnalysis", "content": "リアルタイム駝背分析"},
+    {"id": 44, "title": "hunchbackStatus", "content": "駝背の状態"},
+    {"id": 45, "title": "darkUI", "content": "ダークインターフェース"},
+    {"id": 46, "title": "useDarkUIMode", "content": "ダークモードインターフェースを使用する"},
+    {
+        "id": 47,
+        "title": "dailyTarget",
+        "content": "毎日の目標"
+      },
+      {
+        "id": 48,
+        "title": "noHunchbackMoreThan",
+        "content": "駝背を超えない"
+      },
+      {
+        "id": 49,
+        "title": "hunchbackTooManyTimes",
+        "content": "駝背が多すぎる！"
+      },
+      {
+        "id": 50,
+        "title": "hunchbackExceedDailyCount",
+        "content": "駝背が毎日の制限を超える！"
+      },
+      {
+        "id": 51,
+        "title": "youTotallyHave",
+        "content": "あなたは合計で持っている"
+      },
+      {
+        "id": 52,
+        "title": "timesHunchbacked",
+        "content": "駝背の回数"
+      },
+      {
+        "id": 53,
+        "title": "hunchbackTotalCount",
+        "content": "駝背の総数"
+      }            
+]
